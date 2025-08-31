@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Nikola Tosic 👋
 
-<!--
-**NikolaTosic-sudo/NikolaTosic-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A professional web developer with **4 years of experience** building modern, responsive, and interactive web applications. My primary focus has been on **JavaScript, HTML, CSS, and React**, crafting clean, efficient, and user-friendly interfaces.
 
-Here are some ideas to get you started:
+## Current Focus 🎯
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learning **Go** and backend development to expand my full-stack capabilities.  
+- Exploring scalable architectures, APIs, and WebSockets.  
+- Continuously improving my skills in both **frontend and backend development**.  
+
+## What I Value 💡
+
+- Writing clean, maintainable, and modular code.  
+- Learning new technologies and applying them in real projects.  
+- Building performant and accessible applications.  
+
+## Skills 🛠️
+
+**Frontend:** HTML, CSS, JavaScript, React, Responsive Design  
+
+**Additional Technologies:** Next.js, Tailwind CSS, Styled Components, Storybook, n8n  
+
+**Backend (Learning):** Go, REST APIs, WebSockets, PostgreSQL  
+
+**Tools & Others:** Git, Node.js, NPM, Testing, Agile Development  
+
+## Goals 🚀
+
+I’m always looking to expand my knowledge and explore new technologies in both frontend and backend development, aiming to deliver full-stack solutions and create seamless user experiences.
+
+## Contact 📫
+
+[![Email](https://img.shields.io/badge/Email-toleslaoffice@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toleslaoffice@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tolesla-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tolesla/)
+
+---
