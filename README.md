@@ -1,18 +1,12 @@
 # Hi there, I'm Nikola Tosic 👋
 
-A professional web developer with **4 years of experience** building modern, responsive, and interactive web applications. My primary focus has been on **JavaScript, HTML, CSS, and React**, crafting clean, efficient, and user-friendly interfaces.
+Frontend Engineer with **4+ years** of experience building and shipping scalable web applications using **React, Next.js, and TypeScript**. Strong focus on performance, maintainability, and delivering reliable, user-centric interfaces.
 
 ## Current Focus 🎯
 
 - Learning **Go** and backend development to expand my full-stack capabilities.  
 - Exploring scalable architectures, APIs, and WebSockets.  
 - Continuously improving my skills in both **frontend and backend development**.  
-
-## What I Value 💡
-
-- Writing clean, maintainable, and modular code.  
-- Learning new technologies and applying them in real projects.  
-- Building performant and accessible applications.  
 
 ## Skills 🛠️
 
@@ -33,6 +27,6 @@ I’m always looking to expand my knowledge and explore new technologies in both
 [![Email](https://img.shields.io/badge/Email-toleslaoffice@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toleslaoffice@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tolesla-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tolesla/)
 
-[![Website](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://pieetas.com/)
+[![Portfolio](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://pieetas.com/)
 
 ---
